@@ -1,1 +1,1 @@
-# CNN-vs-ViT_ArtStyle
+<iframe src="https://www.kaggle.com/embed/luthei/vit-vs-cnn-on-wikiart?kernelSessionId=156184268" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="ViT vs. CNN on WikiArt"></iframe>
